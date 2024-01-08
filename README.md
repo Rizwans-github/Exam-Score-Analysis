@@ -1,1 +1,1 @@
-![screencapture-localhost-8888-notebooks-Downloads-Da-Project-Exam-Score-Analysis-using-Python-Student-Analysis-ipynb-2024-01-08-16_00_17](https://github.com/Rizwans-github/Exam-Score-Analysis/assets/141806496/a51bb938-9151-4a52-a4b1-e87ab2ce494d)
+![screencapture-localhost-8888-notebooks-Downloads-Da-Project-Exam-Score-Analysis-using-Python-Student-Analysis-ipynb-2024-01-08-16_06_34](https://github.com/Rizwans-github/Exam-Score-Analysis/assets/141806496/5440759e-feba-4e8b-8b4e-d1df2bc2bb47)

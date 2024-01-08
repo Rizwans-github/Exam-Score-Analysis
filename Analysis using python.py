@@ -29,6 +29,7 @@ ax.bar_label(ax.containers[0], label_type = 'center', color = 'white', fontsize=
 plt.show()
 
 
+
 plt.figure( figsize = (3,3))
 ax = sns.countplot(data = df, x = 'Gender' , hue = 'Gender')
 plt.ylabel('Count', color = '#3274a1', fontsize = 11)

@@ -126,10 +126,18 @@ sns.heatmap(Sports, cmap='viridis')
 plt.show()
 
 '''
+<<<<<<< HEAD
+To sum up our analysis, we've dived into different aspects of student data. 
+We looked at gender distributions, the influence of parent's education, and explored ethnic group disparities, along with modes of transport and
+sports participation. Visualizations, like count plots and heatmaps, helped paint a clear picture.
+This project showcases the effectiveness of Python's data analytics tools in extracting meaningful insights from a comprehensive dataset. 
+It emphasizes the importance of data analysis in understanding patterns and gaining valuable insights into the factors that impact student scores.
+=======
 CONCLUSION
 To sum up our analysis, we've dived into different aspects of student data. We looked at gender distributions, the influence of parent's education, and explored ethnic group disparities, along with modes of transport and sports participation. Visualizations, like count plots and heatmaps, helped paint a clear picture.
 
 This project showcases the effectiveness of Python's data analytics tools in extracting meaningful insights from a comprehensive dataset. It emphasizes the importance of data analysis in understanding patterns and gaining valuable insights into the factors that impact student scores.
 
+>>>>>>> 3cf0d2dc8f285bc826c339b9f8c1b2bfbf67ef19
 In a nutshell, our exploration underlines the rich stories hidden within the data, demonstrating the power of analytical tools in deciphering these narratives.
 '''

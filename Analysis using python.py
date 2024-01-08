@@ -1,5 +1,6 @@
 
-'''
+'''   
+INTRODUCTION
 In this project, I'm conducting an in-depth analysis of exam scores using Python. 
 Using  libraries like NumPy, Matplotlib, Seaborn, and Pandas, I'm dissecting various dimensions of student performance. 
 From scrutinizing gender distributions and exploring the correlation with parent's education to dissecting ethnic group disparities and
@@ -124,8 +125,8 @@ print(Sports)
 sns.heatmap(Sports, cmap='viridis')
 plt.show()
 
-#CONCLUSION
 '''
+CONCLUSION
 To sum up our analysis, we've dived into different aspects of student data. We looked at gender distributions, the influence of parent's education, and explored ethnic group disparities, along with modes of transport and sports participation. Visualizations, like count plots and heatmaps, helped paint a clear picture.
 
 This project showcases the effectiveness of Python's data analytics tools in extracting meaningful insights from a comprehensive dataset. It emphasizes the importance of data analysis in understanding patterns and gaining valuable insights into the factors that impact student scores.
